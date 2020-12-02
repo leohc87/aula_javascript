@@ -1,6 +1,7 @@
 let user = {
-    name: 'Guilherme'
-};
+    name: 'Guilherme',
+    lastName: 'Cabrini da Silva'
+}
 
 // alternando a propiedade de um objeto
 user.name = 'Outro nome 1';
